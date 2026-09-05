@@ -64,26 +64,24 @@ The collected review set is imbalanced, with Negative reviews representing the m
 
 ## Methodology
 
+The project follows these main steps:
+
 ```text
-20,000 Gojek Reviews
-        ↓
 Data Understanding
         ↓
-Rating-Based Sentiment Labeling
+Data Cleaning & Preprocessing
         ↓
-Indonesian Text Preprocessing
+Sentiment Labeling
         ↓
-Train-Test Split (80:20)
+Train-Test Split
         ↓
 TF-IDF Feature Extraction
         ↓
-Baseline Models
+Model Training
+        ↓
+Model Evaluation
         ↓
 Class Imbalance Handling
-        ↓
-Balanced Models
-        ↓
-Model Comparison
         ↓
 Error Analysis
         ↓
