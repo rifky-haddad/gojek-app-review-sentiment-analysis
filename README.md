@@ -102,6 +102,7 @@ The review text was processed through several stages:
 - Indonesian stopword removal
 - Indonesian stemming using Sastrawi
 
+---
 ### Feature Extraction
 
 Text data was transformed into numerical features using **TF-IDF** with unigram and bigram features.
