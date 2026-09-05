@@ -62,32 +62,31 @@ The collected review set is imbalanced, with Negative reviews representing the m
 
 ---
 
-## Methodology
+## Project Workflow
 
-The project follows these main steps:
+The analysis follows this workflow:
 
-```text
-Data Understanding
-        ↓
-Data Cleaning & Preprocessing
-        ↓
-Sentiment Labeling
-        ↓
-Train-Test Split
-        ↓
-TF-IDF Feature Extraction
-        ↓
-Model Training
-        ↓
-Model Evaluation
-        ↓
-Class Imbalance Handling
-        ↓
-Error Analysis
-        ↓
-Final Model Selection
-        ↓
-Business Insights
+**Data Understanding**  
+↓  
+**Data Cleaning & Preprocessing**  
+↓  
+**Sentiment Labeling**  
+↓  
+**Train-Test Split**  
+↓  
+**TF-IDF Feature Extraction**  
+↓  
+**Model Training**  
+↓  
+**Model Evaluation**  
+↓  
+**Class Imbalance Handling**  
+↓  
+**Error Analysis**  
+↓  
+**Final Model Selection**  
+↓  
+**Business Insights**
 
 ---
 
